@@ -1,15 +1,4 @@
-Star this repo
-18019
-Fork on GitHub
-5295
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Arisi</h1>

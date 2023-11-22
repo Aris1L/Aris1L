@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arisi</h1>
-<h3 align="center">A student from Kosova</h3>
+<h3 align="center">A student from Prishtina in Kosova</h3>
 
 - my email is **aris.lupqi@gmail.com**
 
